@@ -3,21 +3,6 @@ Hello there!<br> I'm <strong> Anjana Romolia. </strong>A<strong> Full Stack web 
 
 ![Visitor Count](https://profile-counter.glitch.me/anjanadeveloper/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anjanadeveloper&column=7"/>
-  </a>
-</div>
-
-
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anjanaromoliadeveloper&column=7"/>
-  </a>
-</div>
-
 Languages and Tools: 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
