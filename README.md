@@ -1,7 +1,7 @@
-Hello there! I'm <strong> Anjana Romolia. </strong>A Full Stack web developer having specialization in back end & front end development. I have 1 year of experience in web Development 
+Hello there! I'm <strong> Anjana Romolia. </strong>A<strong> Full Stack web developer</strong> having specialization in <strong>back end & front end development.</strong> I have 1 year of experience in web <strong>Development</strong>  having strong <strong>HTML5 & CSS3</strong>skills. I also have front end skills in javaScript and responsive.
 
 
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Anjanaromolia/count.svg)
@@ -18,8 +18,7 @@ Languages and Tools:
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="41" />
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
+  
     </a>
     <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40" />
