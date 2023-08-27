@@ -10,8 +10,6 @@ Hello there!<br> I'm <strong> Anjana Romolia. </strong>A<strong> Full Stack web 
 </div>
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
-
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
