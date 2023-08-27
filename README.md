@@ -1,4 +1,5 @@
-Hello there!<br> I'm <strong> Anjana Romolia. </strong>A<strong> Full Stack web developer</strong> having specialization in <strong>back end & front end development.</strong> I'm fresher, having multiple skills like quick learner, team player, deadline driven and can work under pressure. <strong> Web Development</strong>  having strong <strong>HTML5 & CSS3</strong>skills. I also have front end skills in javaScript and responsive. My altimate goals are to learn all the technical languages and tools listed below.<div style="display:inline;"<h4>🏆</h4><h4><pre>🏆</h4><h4><pre>🏆</h4></div>
+Hello there!<br> I'm <strong> Anjana Romolia. </strong>A<strong> Full Stack web developer</strong> having specialization in <strong>back end & front end development.</strong> I'm fresher, having multiple skills like quick learner, team player, deadline driven and can work under pressure. <strong> Web Development</strong>  having strong <strong>HTML5 & CSS3</strong>skills. I also have front end skills in javaScript and responsive. My altimate goals are to learn all the technical languages and tools listed below.🏆🏆🏆
+
 
 ![Visitor Count](https://profile-counter.glitch.me/anjanadeveloper/count.svg)
 
