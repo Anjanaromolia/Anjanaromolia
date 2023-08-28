@@ -1,5 +1,5 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anna-romolia-9874b9220)](linkedin.com/in/anna-romolia-9874b9220)
+[![Linkedin Badge](https://img.shields.io/badge/-Anjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anna-romolia-9874b9220/)](linkedin.com/in/anna-romolia-9874b9220/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Anjana-lightpink)](https://stackoverflow.com/users/22348193/Anjana-)
 
 Hello there!<br> I'm <strong> Anjana Romolia. </strong>A<strong> Full Stack web developer</strong> having specialization in <strong>back end & front end development.</strong> I'm fresher, having multiple skills are quick learner, team player, deadline driven and can work under pressure. <strong> Web Development</strong>  having strong <strong>HTML5 & CSS3</strong> skills. I also have front end skills in javaScript and responsive. My altimate goals are
