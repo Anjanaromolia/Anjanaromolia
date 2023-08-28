@@ -1,4 +1,4 @@
-
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anna--9874b9220/)](https://www.linkedin.com/in/anna--9874b9220/)
 [![Linkedin Badge](https://img.shields.io/badge/-Anjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anna-romolia-9874b9220/)](linkedin.com/in/anna-romolia-9874b9220/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Anjana-lightpink)](https://stackoverflow.com/users/22348193/Anjana-)
 
