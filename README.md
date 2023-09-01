@@ -1,4 +1,4 @@
- 👋 Hi, I’m Developer Anjana.
+ 👋 Hi, I’m Developer Anjana,
 - 👀 I’m currently learning HTML, CSS, javaScript, Mpngodb, React, Boostrap, NodeJs and many more to come!
 - 💞️ How to reach me on LinkedIn
 
