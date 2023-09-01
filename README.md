@@ -1,6 +1,6 @@
  👋 Hi, I’m Anjana
-- 🌱 I’m currently learning HTML, CSS, javaScript, Mpngodb, React, Boostrap, NodeJs and many more to come!
-- 📫 How to reach me on LinkedIn
+- 👀 I’m currently learning HTML, CSS, javaScript, Mpngodb, React, Boostrap, NodeJs and many more to come!
+- 💞️ How to reach me on LinkedIn
 
 <!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)-->
 [![Linkedin Badge](https://img.shields.io/badge/-Anjana-lightgreen?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anjana--01629954/)](https://www.linkedin.com/in/anjana--01629954/)
